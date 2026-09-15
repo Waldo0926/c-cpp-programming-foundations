@@ -1,5 +1,9 @@
 # C/C++ Programming Foundations
 
+[![Type](https://img.shields.io/badge/Type-Coursework-2563eb?style=for-the-badge)](#)
+[![Tech](https://img.shields.io/badge/Tech-C_%2F_C%2B%2B-7c3aed?style=for-the-badge)](#)
+
+
 [简体中文](README.zh-CN.md)
 
 A curated collection of undergraduate **C/C++ programming exercises, debugging practice, and CCF CSP solutions**, reconstructed from coursework completed in 2021 and cleaned up for long-term public reference.
