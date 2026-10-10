@@ -12,7 +12,7 @@ This repository is intentionally selective: it preserves useful code and learnin
 
 ## Highlights
 
-- **20 recorded CCF CSP tasks — 1970/2000 total** in the original course-design report.
+- **20 recorded CCF CSP tasks, 1970/2000 in total** in the original course-design report.
 - **19 CCF CSP tasks recorded at 100/100** and one 70/100 performance-limited task (`202112-2`).
 - A reconstructed historical `202112-2` implementation plus an **optimized interval-based version**.
 - Refactored C11 exercises covering control flow, functions, arrays, strings, structs, pointers, linked lists, and file I/O.

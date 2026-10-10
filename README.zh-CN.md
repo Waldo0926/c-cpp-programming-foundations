@@ -4,7 +4,7 @@
 [![技术](https://img.shields.io/badge/%E6%8A%80%E6%9C%AF-C_%2F_C%2B%2B-7c3aed?style=for-the-badge)](#)
 
 
-[English](README.md)
+[English](README.md) · **中文**
 
 这是一个从 2021 年本科阶段 C/C++ 课程资料中重新整理出来的公开仓库，主要保留 **C/C++ 编程基础练习、程序调试实践与 CCF CSP 历年题代码**，并针对公开 GitHub 展示进行了清理和重构。
 
